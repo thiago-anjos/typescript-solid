@@ -1,0 +1,3 @@
+const name = 'thiago';
+
+export {};
